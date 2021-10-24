@@ -10,17 +10,25 @@ For this project a local surf company, 'Surfs Up' has asked for my help in deter
 
 <img align="right" width="200" height="200" src="https://github.com/PSWil/surfs_up/blob/main/results/June_temp.png">
 
+
+
+
+
 - The average temperature is 74.94 degrees
 - The temperature ranges from 64-85 degrees
 - While the temperature is 77 degrees or higher for about one week out of the month
 
 **December Temperature Statistics**
 
+<img align="right" width="200" height="200" src="https://github.com/PSWil/surfs_up/blob/main/results/Dec_temp.png">
+
+
+
 - The average temperature is 71.04 degrees
 - The temperature ranges from 56-83 degrees
 - The temperature is 69 degrees or lower for about one week out of the month
 
-<img align="right" width="200" height="200" src="https://github.com/PSWil/surfs_up/blob/main/results/Dec_temp.png">
+
 
 ## Summary
 
