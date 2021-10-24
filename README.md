@@ -6,9 +6,7 @@ For this project a local surf company, 'Surfs Up' has asked for my help in deter
 
 ## Results
 
-###June Temperature Statistics
-
-Temperature statistics for June
+**June Temperature Statistics**
 
 - The average temperature is 74.94 degrees
 - The temperature ranges from 64-85 degrees
@@ -16,9 +14,7 @@ Temperature statistics for June
 
 ![alt text](https://github.com/PSWil/surfs_up/blob/main/results/June_temp.png)
 
-###December Temperature Statistics
-
-Temperature statistics for December
+**December Temperature Statistics**
 
 - The average temperature is 71.04 degrees
 - The temperature ranges from 56-83 degrees
