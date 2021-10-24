@@ -12,8 +12,7 @@ For this project a local surf company, 'Surfs Up' has asked for my help in deter
 - The temperature ranges from 64-85 degrees
 - While the temperature is 77 degrees or higher for about one week out of the month
 
-![alt text](https://github.com/PSWil/surfs_up/blob/main/results/June_temp.png)
-<img align="right" width="100" height="100" src="https://github.com/PSWil/surfs_up/blob/main/results/June_temp.png">
+<img align="right" width="250" height="250" src="https://github.com/PSWil/surfs_up/blob/main/results/June_temp.png">
 
 **December Temperature Statistics**
 
