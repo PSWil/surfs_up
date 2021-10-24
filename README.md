@@ -24,4 +24,6 @@ For this project a local surf company, 'Surfs Up' has asked for my help in deter
 
 ## Summary
 
+Now that we can see what the temperatures look like durring the coldest and hottest months the owner of 'Surfs Up' has a better expectation of how the business should preform durring these months. With December being one of the coldest months of the year, we can see that temperatures range from 56-69 for about one week. Thats not too bad. The colder weather may drive sales for wetsuits and other related gear but ice cream sales may not be as rewarding, and volume in colder months may not justify its overhead. June being one of the hottest months presents different opportunities with the hottest week of the month ranging from 77 to 85 degrees. This should be excelent temperatures to drive ice cream sales.
+
 
